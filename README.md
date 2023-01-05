@@ -17,7 +17,7 @@ This is a simple frontEnd challenged Issued by Frontend Mentor, and the first on
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/Screenshot.JPG)
 
 ### Links
 
