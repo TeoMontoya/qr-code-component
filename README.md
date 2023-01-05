@@ -38,4 +38,4 @@ With that said, I'm looking forward to create new thing and have them all showca
 
 ## Author
 
-- Website - [Add your name here](https://github.com/TeoMontoya)
+- Website - [Teo Montoya](https://github.com/TeoMontoya)
